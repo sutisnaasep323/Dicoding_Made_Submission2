@@ -135,7 +135,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:lottie_autoPlay="true"
-        app:lottie_fileName="no_data.json"
+        app:lottie_fileName="noData.json"
         app:lottie_loop="true" />
 
     <TextView
@@ -144,6 +144,7 @@
         android:layout_height="wrap_content"
         android:text="@string/no_data"
         android:textColor="@color/white"
+        android:fontFamily="@font/poppins"
         android:textSize="20sp"
         app:layout_constraintEnd_toEndOf="@+id/not_found"
         app:layout_constraintStart_toStartOf="@+id/not_found"

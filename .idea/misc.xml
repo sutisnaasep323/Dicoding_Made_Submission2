@@ -3,13 +3,25 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Belajar/Android/Dicoding/Made/Submission2/app/src/main/res/drawable/ic_back.xml" value="0.2078125" />
         <entry key="..\:/Belajar/Android/Dicoding/Made/Submission2/app/src/main/res/drawable/ic_star_rate.xml" value="0.2078125" />
         <entry key="..\:/Belajar/Android/Dicoding/Made/Submission2/app/src/main/res/drawable/layout_bg.xml" value="0.2078125" />
         <entry key="..\:/Belajar/Android/Dicoding/Made/Submission2/app/src/main/res/font/poppins.xml" value="0.221875" />
         <entry key="..\:/Belajar/Android/Dicoding/Made/Submission2/app/src/main/res/font/poppins_bold.xml" value="0.221875" />
         <entry key="..\:/Belajar/Android/Dicoding/Made/Submission2/app/src/main/res/font/poppins_semibold.xml" value="0.221875" />
-        <entry key="..\:/Belajar/Android/Dicoding/Made/Submission2/app/src/main/res/layout/activity_detail.xml" value="0.19166666666666668" />
-        <entry key="..\:/Belajar/Android/Dicoding/Made/Submission2/core/src/main/res/layout/item_card_list.xml" value="0.19166666666666668" />
+        <entry key="..\:/Belajar/Android/Dicoding/Made/Submission2/app/src/main/res/layout/activity_detail.xml" value="0.33" />
+        <entry key="..\:/Belajar/Android/Dicoding/Made/Submission2/app/src/main/res/layout/activity_splash_screen.xml" value="0.19166666666666668" />
+        <entry key="..\:/Belajar/Android/Dicoding/Made/Submission2/app/src/main/res/layout/fragment_movies.xml" value="0.19166666666666668" />
+        <entry key="..\:/Belajar/Android/Dicoding/Made/Submission2/app/src/main/res/layout/fragment_tv_shows.xml" value="0.19166666666666668" />
+        <entry key="..\:/Belajar/Android/Dicoding/Made/Submission2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2078125" />
+        <entry key="..\:/Belajar/Android/Dicoding/Made/Submission2/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2078125" />
+        <entry key="..\:/Belajar/Android/Dicoding/Made/Submission2/app/src/main/res/mipmap-anydpi-v26/ic_movie_app.xml" value="0.2078125" />
+        <entry key="..\:/Belajar/Android/Dicoding/Made/Submission2/app/src/main/res/mipmap-anydpi-v26/ic_movie_app_round.xml" value="0.2078125" />
+        <entry key="..\:/Belajar/Android/Dicoding/Made/Submission2/core/src/main/res/font/poppins.xml" value="0.221875" />
+        <entry key="..\:/Belajar/Android/Dicoding/Made/Submission2/core/src/main/res/layout/item_card_list.xml" value="0.25" />
+        <entry key="..\:/Belajar/Android/Dicoding/Made/Submission2/core/src/main/res/layout/item_card_list_placeholder.xml" value="0.19166666666666668" />
+        <entry key="..\:/Belajar/Android/Dicoding/Made/Submission2/favorite/src/main/res/layout/fragment_favorite.xml" value="0.19166666666666668" />
+        <entry key="..\:/Belajar/Android/Dicoding/Made/Submission2/favorite/src/main/res/layout/fragment_favorite_movies.xml" value="0.19166666666666668" />
       </map>
     </option>
   </component>
