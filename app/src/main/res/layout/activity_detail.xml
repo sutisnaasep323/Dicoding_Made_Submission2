@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/ctr_bg"
-    tools:context="com.extcode.project.madesubmission.detail.DetailActivity">
+    tools:context="com.asep.project.madesubmission.detail.DetailActivity">
 
     <com.google.android.material.appbar.AppBarLayout
         android:id="@+id/appbar"
@@ -143,8 +143,8 @@
                 android:layout_height="wrap_content"
                 android:layout_marginStart="8dp"
                 android:layout_marginTop="8dp"
-                android:paddingEnd="4dp"
                 android:fontFamily="@font/poppins_semibold"
+                android:paddingEnd="4dp"
                 android:text="@string/date"
                 android:textColor="@color/black"
                 android:textSize="18sp"
@@ -170,8 +170,8 @@
                 android:layout_height="wrap_content"
                 android:layout_marginStart="8dp"
                 android:layout_marginTop="8dp"
-                android:paddingEnd="4dp"
                 android:fontFamily="@font/poppins_semibold"
+                android:paddingEnd="4dp"
                 android:text="@string/language"
                 android:textColor="@color/black"
                 android:textSize="18sp"
@@ -223,8 +223,8 @@
                 android:layout_height="wrap_content"
                 android:layout_marginStart="8dp"
                 android:layout_marginTop="8dp"
-                android:paddingEnd="4dp"
                 android:fontFamily="@font/poppins_semibold"
+                android:paddingEnd="4dp"
                 android:text="@string/popularity"
                 android:textColor="@color/black"
                 android:textSize="18sp"
