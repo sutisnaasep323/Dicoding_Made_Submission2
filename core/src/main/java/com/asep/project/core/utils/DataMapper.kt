@@ -59,7 +59,7 @@ object DataMapper {
                 it.id,
                 it.title,
                 it.voteCount,
-                it.posterPath.orEmpty(),
+                it.posterPath,
                 favorite = it.favorite,
                 isTvShows = it.isTvShows
             )
@@ -76,7 +76,7 @@ object DataMapper {
             input.id,
             input.title,
             input.voteCount,
-            input.posterPath.orEmpty(),
+            input.posterPath,
             favorite = input.favorite,
             isTvShows = input.isTvShows
         )

@@ -5,9 +5,11 @@ import androidx.lifecycle.asLiveData
 import com.asep.project.core.domain.usecase.MovieAppUseCase
 import kotlinx.coroutines.ExperimentalCoroutinesApi
 import kotlinx.coroutines.FlowPreview
+import kotlinx.coroutines.ObsoleteCoroutinesApi
 import kotlinx.coroutines.channels.ConflatedBroadcastChannel
 import kotlinx.coroutines.flow.*
 
+@ObsoleteCoroutinesApi
 @FlowPreview
 @ExperimentalCoroutinesApi
 class SearchViewModel(private val movieAppUseCase: MovieAppUseCase) : ViewModel() {
@@ -15,7 +17,7 @@ class SearchViewModel(private val movieAppUseCase: MovieAppUseCase) : ViewModel(
     private val queryChannel = ConflatedBroadcastChannel<String>()
 
     fun setSearchQuery(search: String) {
-        queryChannel.offer(search)
+        queryChannel.trySend(search).isSuccess
     }
 
     val movieResult = queryChannel.asFlow()

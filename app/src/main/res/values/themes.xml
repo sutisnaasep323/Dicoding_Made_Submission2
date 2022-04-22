@@ -15,8 +15,8 @@
         <item name="fontFamily">@font/montserrat_bold</item>
     </style>
 
-    <style name="SplashScreen" parent="Theme.MadeSubmission">
-        <item name="android:windowBackground">@color/secondaryColor</item>
+    <style name="AppTheme.background" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:background">@color/secondaryColor</item>
     </style>
 
 
