@@ -8,7 +8,7 @@
     <string name="movies">Movies</string>
     <string name="tvshows">Tv Shows</string>
     <string name="popularity_d">Number</string>
-    <string name="baseUrlImage">http://image.tmdb.org/t/p/w500%s</string>
+    <string name="baseUrlImage">https://image.tmdb.org/t/p/w500%s</string>
     <string name="overview">Overview:</string>
     <string name="popularity">Popularity:</string>
     <string name="tvLanguage">Language:</string>
